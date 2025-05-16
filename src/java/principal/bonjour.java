@@ -13,6 +13,8 @@ public class bonjour {
     public static void main(String[] args) {
         System.out.println("Ajout top bannier");
         System.out.println("Bienvenue dans note formation GIT");
+        /////////////////Exercice///////////////////////////////
+         System.out.println("Exercice 1");
     }
     
 }

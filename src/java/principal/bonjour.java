@@ -11,7 +11,9 @@ package principal;
 public class bonjour {
     
     public static void main(String[] args) {
-        System.out.println("principal.bonjour.main()");
+        System.out.println("Ajout top bannier");
+        System.out.println("Bienvenue dans note formation GIT");
     }
     
 }
+ 

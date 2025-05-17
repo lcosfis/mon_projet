@@ -14,7 +14,8 @@ public class bonjour {
         System.out.println("Ajout top bannier");
         System.out.println("Bienvenue dans note formation GIT");
         /////////////////Exercice///////////////////////////////
-         System.out.println("Exercice 1");
+         System.out.println("Exercice 1 : Description");
+         System.out.println("Exercice 2 : Recompenses");
     }
     
 }
